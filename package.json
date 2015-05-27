@@ -1,0 +1,17 @@
+{
+  "name": "utmcScrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "exfs": "^0.1.2",
+    "mecab-async": "^0.1.0",
+    "twitter": "^1.2.5"
+  }
+}
